@@ -1,0 +1,28 @@
+=====================================
+Mon May 18 19:40:46 2026
+Application: chrome.exe
+Remote IP: 142.250.190.78:443
+Detected File: C:\Users\umara\Desktop\Synapse Assignment.zip
+Transferred: 16.4 MB
+
+=====================================
+Mon May 18 19:41:47 2026
+Application: chrome.exe
+Remote IP: 142.250.190.78:443
+Detected File: C:\Users\umara\Desktop\Synapse Assignment.zip
+Transferred: 16.4 MB
+
+=====================================
+Mon May 18 19:42:47 2026
+Application: chrome.exe
+Remote IP: 142.250.190.78:443
+Detected File: C:\Users\umara\Desktop\Synapse Assignment.zip
+Transferred: 16.4 MB
+
+=====================================
+Mon May 18 19:43:47 2026
+Application: chrome.exe
+Remote IP: 142.250.190.78:443
+Detected File: C:\Users\umara\Desktop\Synapse Assignment.zip
+Transferred: 16.4 MB
+
